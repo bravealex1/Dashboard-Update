@@ -1,0 +1,37 @@
+{
+  "total_tracts": 199,
+  "total_indicators": 91,
+  "new_indicators_added": 20,
+  "derived_indicators": 6,
+  "data_source": "Census ACS 5-Year Estimates 2022",
+  "new_indicators": [
+    "renters_cost_burden_30_35_pct",
+    "renters_cost_burden_35_40_pct",
+    "renters_cost_burden_40_50_pct",
+    "renters_cost_burden_50plus_pct",
+    "total_renter_households_cost",
+    "owners_cost_burden_30_35_pct",
+    "owners_cost_burden_35_40_pct",
+    "owners_cost_burden_40_50_pct",
+    "owners_cost_burden_50plus_pct",
+    "total_owner_households_cost",
+    "gini_index",
+    "households_receiving_snap",
+    "total_households_snap_universe",
+    "households_with_public_assistance",
+    "total_households_assistance_universe",
+    "median_earnings_workers",
+    "not_in_labor_force",
+    "total_workers_commute",
+    "commute_60_plus_minutes",
+    "commute_90_plus_minutes"
+  ],
+  "derived_indicators_list": [
+    "renter_cost_burden_rate",
+    "owner_cost_burden_rate",
+    "housing_cost_burden_rate",
+    "snap_participation_rate",
+    "public_assistance_rate",
+    "long_commute_rate"
+  ]
+}

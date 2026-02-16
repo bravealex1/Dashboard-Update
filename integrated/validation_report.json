@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-02-15T16:38:10.906984",
+  "checks": {
+    "completeness": {
+      "tracts_complete": true,
+      "missing_data_acceptable": true,
+      "total_missing_pct": 0.07
+    },
+    "ranges": {
+      "all_ranges_valid": false,
+      "columns_with_issues": [
+        "unemployment_rate",
+        "uninsured_rate",
+        "vacancy_rate"
+      ]
+    },
+    "outliers": {
+      "high_school_completion_25plus": 8,
+      "unemployment_rate": 6,
+      "broadband_internet_subscription": 1,
+      "uninsured_population": 7,
+      "population_with_a_disability": 7
+    },
+    "cross_validation": [
+      [
+        "median_household_income",
+        1.0
+      ],
+      [
+        "housing_values",
+        0.21460715761322713
+      ]
+    ],
+    "composite_indices": {
+      "health_vulnerability": {
+        "mean": -8.074349270001139e-17,
+        "std": 1.0,
+        "min": -1.673983153981921,
+        "max": 3.5093354534351993
+      }
+    }
+  },
+  "overall_status": "WARN"
+}

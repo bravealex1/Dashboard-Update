@@ -1,0 +1,300 @@
+{
+  "Demographics": {
+    "mean": {
+      "total_population": 2937.427135678392,
+      "median_age": -3350046.310552764,
+      "black_or_african_american_alone": 1781.6834170854272,
+      "hispanic_or_latino": 172.76884422110552,
+      "asian_alone": 74.74874371859296
+    },
+    "median": {
+      "total_population": 2645.0,
+      "median_age": 36.5,
+      "black_or_african_american_alone": 1608.0,
+      "hispanic_or_latino": 75.0,
+      "asian_alone": 20.0
+    },
+    "std": {
+      "total_population": 1386.0166539831048,
+      "median_age": 47258749.62062416,
+      "black_or_african_american_alone": 1343.2080907389773,
+      "hispanic_or_latino": 288.46134281241615,
+      "asian_alone": 146.0952960958808
+    },
+    "min": {
+      "total_population": 11.0,
+      "median_age": -666666666.0,
+      "black_or_african_american_alone": 0.0,
+      "hispanic_or_latino": 0.0,
+      "asian_alone": 0.0
+    },
+    "max": {
+      "total_population": 6619.0,
+      "median_age": 70.4,
+      "black_or_african_american_alone": 5956.0,
+      "hispanic_or_latino": 2479.0,
+      "asian_alone": 1380.0
+    }
+  },
+  "Education": {
+    "mean": {
+      "high_school_completion_25plus": 86.2678391959799,
+      "bachelor's_degree_or_higher_25plus": 32.89547738693468,
+      "bachelor's_degree": 363.9899497487437,
+      "master's_degree": 239.61306532663318,
+      "professional_degree": 65.67336683417085,
+      "doctorate_degree": 50.19095477386934
+    },
+    "median": {
+      "high_school_completion_25plus": 88.0,
+      "bachelor's_degree_or_higher_25plus": 25.9,
+      "bachelor's_degree": 260.0,
+      "master's_degree": 167.0,
+      "professional_degree": 22.0,
+      "doctorate_degree": 22.0
+    },
+    "std": {
+      "high_school_completion_25plus": 9.50991353316921,
+      "bachelor's_degree_or_higher_25plus": 24.845736777329112,
+      "bachelor's_degree": 321.84523211294567,
+      "master's_degree": 236.86510253334507,
+      "professional_degree": 110.7544323586737,
+      "doctorate_degree": 81.05026323397058
+    },
+    "min": {
+      "high_school_completion_25plus": 47.0,
+      "bachelor's_degree_or_higher_25plus": 0.0,
+      "bachelor's_degree": 0.0,
+      "master's_degree": 0.0,
+      "professional_degree": 0.0,
+      "doctorate_degree": 0.0
+    },
+    "max": {
+      "high_school_completion_25plus": 100.0,
+      "bachelor's_degree_or_higher_25plus": 86.7,
+      "bachelor's_degree": 1833.0,
+      "master's_degree": 1254.0,
+      "professional_degree": 660.0,
+      "doctorate_degree": 544.0
+    }
+  },
+  "Employment & Income": {
+    "mean": {
+      "unemployment_rate": -3350075.567336683,
+      "median_household_income_health": -9988477.44723618,
+      "per_capita_income": 37089.878787878784,
+      "civilian_labor_force": 1486.7035175879396,
+      "unemployed": 102.93467336683418,
+      "employed": 1383.7688442211056
+    },
+    "median": {
+      "unemployment_rate": 7.0,
+      "median_household_income_health": 53472.0,
+      "per_capita_income": 30531.0,
+      "civilian_labor_force": 1369.0,
+      "unemployed": 85.0,
+      "employed": 1261.0
+    },
+    "std": {
+      "unemployment_rate": 47258747.53619113,
+      "median_household_income_health": 81447763.91572714,
+      "per_capita_income": 20536.374347374145,
+      "civilian_labor_force": 799.9265733586689,
+      "unemployed": 80.10820178799362,
+      "employed": 777.4854682679603
+    },
+    "min": {
+      "unemployment_rate": -666666666.0,
+      "median_household_income_health": -666666666.0,
+      "per_capita_income": 6605.0,
+      "civilian_labor_force": 0.0,
+      "unemployed": 0.0,
+      "employed": 0.0
+    },
+    "max": {
+      "unemployment_rate": 45.5,
+      "median_household_income_health": 229743.0,
+      "per_capita_income": 110654.0,
+      "civilian_labor_force": 4452.0,
+      "unemployed": 427.0,
+      "employed": 4307.0
+    }
+  },
+  "Poverty": {
+    "mean": {
+      "population_below_poverty_level": 555.321608040201,
+      "poverty_rate": 21.56277777777778
+    },
+    "median": {
+      "population_below_poverty_level": 447.0,
+      "poverty_rate": 18.015
+    },
+    "std": {
+      "population_below_poverty_level": 401.88925944091466,
+      "poverty_rate": 14.427872202986016
+    },
+    "min": {
+      "population_below_poverty_level": 0.0,
+      "poverty_rate": 1.15
+    },
+    "max": {
+      "population_below_poverty_level": 2868.0,
+      "poverty_rate": 100.0
+    }
+  },
+  "Housing": {
+    "mean": {
+      "median_home_value_health": -36651822.743718594,
+      "median_gross_rent_health": -20099246.547738694,
+      "vacant_housing_units": 232.7788944723618,
+      "total_housing_units": 1475.1507537688442,
+      "home_ownership_rate": 47.61191919191919,
+      "vacancy_rate": 16.790151515151514
+    },
+    "median": {
+      "median_home_value_health": 178900.0,
+      "median_gross_rent_health": 1221.0,
+      "vacant_housing_units": 199.0,
+      "total_housing_units": 1388.0,
+      "home_ownership_rate": 47.755,
+      "vacancy_rate": 13.325
+    },
+    "std": {
+      "median_home_value_health": 152778509.38735655,
+      "median_gross_rent_health": 114289078.34744123,
+      "vacant_housing_units": 158.6709362704886,
+      "total_housing_units": 665.2945025613227,
+      "home_ownership_rate": 20.659060139346916,
+      "vacancy_rate": 11.237318017239765
+    },
+    "min": {
+      "median_home_value_health": -666666666.0,
+      "median_gross_rent_health": -666666666.0,
+      "vacant_housing_units": 0.0,
+      "total_housing_units": 0.0,
+      "home_ownership_rate": 0.0,
+      "vacancy_rate": 0.0
+    },
+    "max": {
+      "median_home_value_health": 811300.0,
+      "median_gross_rent_health": 2635.0,
+      "vacant_housing_units": 888.0,
+      "total_housing_units": 4777.0,
+      "home_ownership_rate": 96.38,
+      "vacancy_rate": 54.71
+    }
+  },
+  "Health & Disability": {
+    "mean": {
+      "population_with_a_disability": 474.29145728643215,
+      "disability_rate": 17.3729797979798,
+      "uninsured_population": -3349989.8884422113,
+      "uninsured_rate": -Infinity
+    },
+    "median": {
+      "population_with_a_disability": 440.0,
+      "disability_rate": 15.8,
+      "uninsured_population": 95.7,
+      "uninsured_rate": 3.66
+    },
+    "std": {
+      "population_with_a_disability": 271.3824046859304,
+      "disability_rate": 8.000665816810509,
+      "uninsured_population": 47258753.6404815,
+      "uninsured_rate": NaN
+    },
+    "min": {
+      "population_with_a_disability": 0.0,
+      "disability_rate": 3.98,
+      "uninsured_population": -666666666.0,
+      "uninsured_rate": -Infinity
+    },
+    "max": {
+      "population_with_a_disability": 1360.0,
+      "disability_rate": 45.45,
+      "uninsured_population": 100.0,
+      "uninsured_rate": 909.09
+    }
+  },
+  "Infrastructure & Access": {
+    "mean": {
+      "broadband_internet_subscription": -3350020.976884422,
+      "public_transportation_to_work": 174.07035175879398,
+      "public_transit_rate": 15.17550505050505
+    },
+    "median": {
+      "broadband_internet_subscription": 67.0,
+      "public_transportation_to_work": 141.0,
+      "public_transit_rate": 12.025
+    },
+    "std": {
+      "broadband_internet_subscription": 47258751.42555273,
+      "public_transportation_to_work": 138.10976850659893,
+      "public_transit_rate": 11.928347990574316
+    },
+    "min": {
+      "broadband_internet_subscription": -666666666.0,
+      "public_transportation_to_work": 0.0,
+      "public_transit_rate": 0.0
+    },
+    "max": {
+      "broadband_internet_subscription": 100.0,
+      "public_transportation_to_work": 683.0,
+      "public_transit_rate": 52.68
+    }
+  },
+  "Family Structure": {
+    "mean": {
+      "children_in_married-couple_families": 228.42211055276383,
+      "children_in_single-parent_families": 39.09045226130653,
+      "single_parent_rate": 6.847193877551021
+    },
+    "median": {
+      "children_in_married-couple_families": 162.0,
+      "children_in_single-parent_families": 9.0,
+      "single_parent_rate": 2.545
+    },
+    "std": {
+      "children_in_married-couple_families": 264.44130683609103,
+      "children_in_single-parent_families": 76.22383213370975,
+      "single_parent_rate": 10.480317659266909
+    },
+    "min": {
+      "children_in_married-couple_families": 0.0,
+      "children_in_single-parent_families": 0.0,
+      "single_parent_rate": 0.0
+    },
+    "max": {
+      "children_in_married-couple_families": 1719.0,
+      "children_in_single-parent_families": 585.0,
+      "single_parent_rate": 64.75
+    }
+  },
+  "Immigration & Language": {
+    "mean": {
+      "foreign-born_population": 127.61306532663316,
+      "foreign_born_rate": 4.182663316582914,
+      "speak_only_english": 374.83417085427135
+    },
+    "median": {
+      "foreign-born_population": 75.0,
+      "foreign_born_rate": 2.85,
+      "speak_only_english": 317.0
+    },
+    "std": {
+      "foreign-born_population": 156.90071502032632,
+      "foreign_born_rate": 4.272409776129004,
+      "speak_only_english": 281.6506677152307
+    },
+    "min": {
+      "foreign-born_population": 0.0,
+      "foreign_born_rate": 0.0,
+      "speak_only_english": 0.0
+    },
+    "max": {
+      "foreign-born_population": 857.0,
+      "foreign_born_rate": 19.95,
+      "speak_only_english": 1549.0
+    }
+  }
+}

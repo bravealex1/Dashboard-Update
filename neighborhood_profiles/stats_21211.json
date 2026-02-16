@@ -1,0 +1,80 @@
+{
+  "median_household_income_econ": {
+    "neighborhood": 81559.66666666667,
+    "city": -6671920.939393939,
+    "difference": 6753480.606060606,
+    "pct_difference": -101.22243155168556
+  },
+  "poverty_rate": {
+    "neighborhood": 6.989999999999999,
+    "city": 21.56277777777778,
+    "difference": -14.57277777777778,
+    "pct_difference": -67.58302630561927
+  },
+  "unemployment_rate": {
+    "neighborhood": 4.3,
+    "city": 8.222727272727273,
+    "difference": -3.922727272727273,
+    "pct_difference": -47.70591487009398
+  },
+  "median_earnings_workers": {
+    "neighborhood": 55295.333333333336,
+    "city": -6689582.171717172,
+    "difference": 6744877.505050505,
+    "pct_difference": -100.82658874521515
+  },
+  "gini_index": {
+    "neighborhood": 0.3849666666666667,
+    "city": 0.4555358585858586,
+    "difference": -0.07056919191919192,
+    "pct_difference": -15.491468034648948
+  },
+  "housing_cost_burden_rate": {
+    "neighborhood": 23.121740243703794,
+    "city": 35.768294724494595,
+    "difference": -12.646554480790801,
+    "pct_difference": -35.356884017538235
+  },
+  "snap_participation_rate": {
+    "neighborhood": 17.04968365341786,
+    "city": 26.115650241983897,
+    "difference": -9.065966588566038,
+    "pct_difference": -34.71468833654182
+  },
+  "public_assistance_rate": {
+    "neighborhood": 17.90821295539621,
+    "city": 27.186692162043784,
+    "difference": -9.278479206647575,
+    "pct_difference": -34.12875369811101
+  },
+  "home_ownership_rate": {
+    "neighborhood": 79.87666666666667,
+    "city": 47.61191919191919,
+    "difference": 32.26474747474747,
+    "pct_difference": 67.76611407889544
+  },
+  "disability_rate": {
+    "neighborhood": 14.826666666666668,
+    "city": 17.3729797979798,
+    "difference": -2.5463131313131306,
+    "pct_difference": -14.656743753361335
+  },
+  "uninsured_rate": {
+    "neighborhood": 2.2966666666666664,
+    "city": -Infinity,
+    "difference": Infinity,
+    "pct_difference": NaN
+  },
+  "vacancy_rate": {
+    "neighborhood": 9.576666666666666,
+    "city": 16.790151515151514,
+    "difference": -7.213484848484848,
+    "pct_difference": -42.962595316518524
+  },
+  "long_commute_rate": {
+    "neighborhood": 7.5630303724292505,
+    "city": 7.447487527643762,
+    "difference": 0.11554284478548826,
+    "pct_difference": 1.551433880978163
+  }
+}

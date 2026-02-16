@@ -1,0 +1,4 @@
+Baltimore City Economic Data Summary (2022)
+============================================================
+
+Total Census Tracts: 199

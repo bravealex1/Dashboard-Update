@@ -1,0 +1,68 @@
+Baltimore Integrated Health & Economic Data Report
+============================================================
+
+Data Year: 2022
+Census Tracts: 199
+Total Indicators: 64
+
+Indicator Categories:
+------------------------------------------------------------
+
+Demographics (5 indicators):
+  - total_population
+  - median_age
+  - black_or_african_american_alone
+  - hispanic_or_latino
+  - asian_alone
+
+Education (6 indicators):
+  - high_school_completion_25plus
+  - bachelor's_degree_or_higher_25plus
+  - bachelor's_degree
+  - master's_degree
+  - professional_degree
+  ... and 1 more
+
+Employment & Income (6 indicators):
+  - unemployment_rate
+  - median_household_income_health
+  - per_capita_income
+  - civilian_labor_force
+  - unemployed
+  ... and 1 more
+
+Poverty (2 indicators):
+  - population_below_poverty_level
+  - poverty_rate
+
+Housing (6 indicators):
+  - median_home_value_health
+  - median_gross_rent_health
+  - vacant_housing_units
+  - total_housing_units
+  - home_ownership_rate
+  ... and 1 more
+
+Health & Disability (4 indicators):
+  - population_with_a_disability
+  - disability_rate
+  - uninsured_population
+  - uninsured_rate
+
+Infrastructure & Access (3 indicators):
+  - broadband_internet_subscription
+  - public_transportation_to_work
+  - public_transit_rate
+
+Family Structure (3 indicators):
+  - children_in_married-couple_families
+  - children_in_single-parent_families
+  - single_parent_rate
+
+Immigration & Language (3 indicators):
+  - foreign-born_population
+  - foreign_born_rate
+  - speak_only_english
+
+============================================================
+Data Integration Complete!

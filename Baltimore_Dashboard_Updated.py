@@ -51,7 +51,7 @@ st.markdown("""
 def load_data():
     """Load the expanded integrated dataset."""
     try:
-        df = pd.read_csv("data/integrated/baltimore_integrated_expanded_2022.csv")
+        df = pd.read_csv("integrated/baltimore_integrated_expanded_2022.csv")
         return df
     except:
         st.error("⚠️ Data file not found. Please ensure baltimore_integrated_expanded_2022.csv is in data/integrated/")
@@ -498,3 +498,4 @@ def show_about():
 
 if __name__ == "__main__":
     main()
+
